@@ -2,8 +2,8 @@
 
 ## input
 
-https://github.com/skosachiov/perceptron-with-sigmoid/blob/main/input.png
+![input](https://github.com/skosachiov/perceptron-with-sigmoid/blob/main/input.png)
 
 ## output
 
-https://github.com/skosachiov/perceptron-with-sigmoid/blob/main/output.png
+![output](https://github.com/skosachiov/perceptron-with-sigmoid/blob/main/output.png)
