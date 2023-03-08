@@ -1,5 +1,9 @@
 # perceptron-with-sigmoid
 
+## theoretical background
+
+https://en.wikipedia.org/wiki/Backpropagation
+
 ## layer configuration can be changed
 
 layers = [15, 30, 30, 10]
